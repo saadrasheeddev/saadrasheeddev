@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Saad 👋
 
-<!--
-**saadrasheeddev/saadrasheeddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a [Your Profession], passionate about [your fields of interest] like [topic1], [topic2], and [topic3].
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on [project name]
+- 🌱 I’m currently learning [new skills or tools]
+- 💬 Ask me about [expertise areas]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+## 📊 GitHub Stats:
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrasheed&show_icons=true&theme=radical)
+
+## 🌍 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-handle)
