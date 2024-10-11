@@ -1,14 +1,15 @@
 # Hi there, I'm Saad Rasheed 👋
 
-I'm a **Data Scientist** passionate about driving business growth through data-driven solutions. I'm also exploring **Artificial Intelligence** and **Data Engineering**. I enjoy building and scaling data-driven systems and am always eager to learn cutting-edge technologies, especially in AI and large language models (LLMs).
+→ I'm a **Data Scientist**  
+→ Exploring **Artificial Intelligence** and **Data Engineering**
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-- 🔭 **Data Warehousing**: Building an end-to-end data warehouse solution using PostgreSQL and Apache Airflow.
-- 🌱 **Learning AI & LLMs**: Exploring **Large Language Models (LLMs)** to understand their applications and use cases in real-world problems.
-- ⚙️ **Exploring Data Engineering**: Diving deeper into data pipelines, ETL processes, and cloud-based data architectures.
+➡️ Data Warehousing
+➡️ Learning AI & LLMs
+➡️ Exploring Data Engineering
 
 ---
 
