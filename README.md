@@ -46,8 +46,20 @@ I'm a **Data Scientist** passionate about driving business growth through data-d
 
 Let's connect and collaborate! Feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/saadrasheeddev)
-- [Portfolio Website](https://saadrasheeddev.vercel.app/)
+<p>
+  
+  <a href="https://www.linkedin.com/in/saadrasheeddev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://mail.google.com/mail/u/?authuser=saadrasheeddev@gmail.com/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/saadrasheed20">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  	
+  
+</p>
 
 ---
 
