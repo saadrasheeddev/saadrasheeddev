@@ -37,8 +37,8 @@ I'm a **Data Scientist** passionate about driving business growth through data-d
 
 ## 📊 GitHub Stats
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrasheed&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheed&layout=compact&theme=radical)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=radical)
 
 ---
 
