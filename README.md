@@ -46,8 +46,8 @@ I'm a **Data Scientist** passionate about driving business growth through data-d
 
 Let's connect and collaborate! Feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/saadrasheed)  
-- [Twitter](https://twitter.com/saadrasheed)
+- [LinkedIn](https://www.linkedin.com/in/saadrasheeddev)
+- [Portfolio Website](https://saadrasheeddev.vercel.app/)
 
 ---
 
