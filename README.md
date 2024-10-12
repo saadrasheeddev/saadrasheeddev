@@ -17,11 +17,23 @@
 
 ## 📊 GitHub Stats
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=default#gh-light-mode-only)
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=tokyonight#gh-dark-mode-only)
+<!-- GitHub Stats for Light Mode -->
+<a href="https://github.com/saadrasheeddev">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=default" alt="Saad's GitHub stats" width="400" align="center" />
+</a>
+<!-- GitHub Stats for Dark Mode -->
+<a href="https://github.com/saadrasheeddev">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=tokyonight" alt="Saad's GitHub stats" width="400" align="center" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=default#gh-light-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=tokyonight#gh-dark-mode-only)
+<!-- Top Languages for Light Mode -->
+<a href="https://github.com/saadrasheeddev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=default" alt="Top Languages" width="400" align="center" />
+</a>
+<!-- Top Languages for Dark Mode -->
+<a href="https://github.com/saadrasheeddev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=tokyonight" alt="Top Languages" width="400" align="center" />
+</a>
 
 ---
 
