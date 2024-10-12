@@ -17,8 +17,11 @@
 
 ## 📊 GitHub Stats
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=tokyonight)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=default#gh-light-mode-only)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=tokyonight#gh-dark-mode-only)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=default#gh-light-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=tokyonight#gh-dark-mode-only)
 
 ---
 
