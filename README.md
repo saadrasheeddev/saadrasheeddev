@@ -3,7 +3,8 @@
 → I'm a **Data Scientist**  
 → Exploring **Artificial Intelligence** and **Data Engineering**
 
-## Get to Know me Better: https://saadrasheeddev.vercel.app/
+## Get to Know me Better: 
+<a href="https://saadrasheeddev.vercel.app/" target="_blank">https://saadrasheeddev.vercel.app/</a>
 
 ---
 
