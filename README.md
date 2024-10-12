@@ -17,9 +17,17 @@
 
 ## 📊 GitHub Stats
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=default">
+  <img alt="Saad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saadrasheeddev&show_icons=true&theme=default">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=default">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrasheeddev&layout=compact&theme=default">
+</picture>
 
 ---
 
